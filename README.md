@@ -209,4 +209,4 @@ MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
 
-For support, please visit [chglog.app](https://chglog.app) or open an issue on GitHub. 
+For support, open an issue on GitHub. 
