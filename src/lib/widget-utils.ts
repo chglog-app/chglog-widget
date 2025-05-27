@@ -1,7 +1,7 @@
 import { DismissalState, WhatsNewApiResponse } from '../types/widget';
 
 const STORAGE_PREFIX = 'whats-new-dismissed';
-const API_BASE_URL = 'https://chglog.app/api/public/whats-new';
+const API_BASE_URL = 'https://chglog.app/api/public/v1/whats-new';
 
 /**
  * Generate storage key for dismissal state
